@@ -1,0 +1,112 @@
+{
+  "title": "Lancey",
+  "id": "lancey",
+  "system": "lancer",
+  "joinTheme": "default",
+  "coreVersion": "11.315",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "systemVersion": "2.4.1",
+  "lastPlayed": "Wed Nov 20 2024 07:06:33 GMT+0000 (Coordinated Universal Time)",
+  "playtime": 18500,
+  "packs": [
+    {
+      "name": "pilot-items",
+      "type": "Item",
+      "label": "lancer.compendium.pilot-items",
+      "banner": "./systems/lancer/assets/banners/pilot-items.svg",
+      "system": "lancer",
+      "path": "packs/pilot-items",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "player-actors",
+      "type": "Actor",
+      "label": "lancer.compendium.player-actors",
+      "banner": "./systems/lancer/assets/banners/player-actors.svg",
+      "system": "lancer",
+      "path": "packs/player-actors",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "mech-items",
+      "type": "Item",
+      "label": "lancer.compendium.mech-items",
+      "banner": "./systems/lancer/assets/banners/mech-items.svg",
+      "system": "lancer",
+      "path": "packs/mech-items",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "npc-actors",
+      "type": "Actor",
+      "label": "lancer.compendium.npc-actors",
+      "banner": "./systems/lancer/assets/banners/npc-actors.svg",
+      "system": "lancer",
+      "path": "packs/npc-actors",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "npc-items",
+      "type": "Item",
+      "label": "lancer.compendium.npc-items",
+      "banner": "./systems/lancer/assets/banners/npc-items.svg",
+      "system": "lancer",
+      "path": "packs/npc-items",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "status-items",
+      "type": "Item",
+      "label": "lancer.compendium.status-items",
+      "banner": "./systems/lancer/assets/banners/status-items.svg",
+      "system": "lancer",
+      "path": "packs/status-items",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Classes",
+      "type": "Item",
+      "name": "classes",
+      "path": "packs/classes",
+      "system": "lancer",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {},
+      "package": "world",
+      "id": "world.classes",
+      "packageType": "world",
+      "packageName": "lancey",
+      "index": [],
+      "folders": []
+    }
+  ]
+}
